@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1500,
+        "description": "High-performance laptop",
+        "category": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 800,
+        "description": "Latest model smartphone",
+        "category": "Electronics"
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "price": 200,
+        "description": "Noise-cancelling headphones",
+        "category": "Accessories"
+    },
+    {
+        "id": 4,
+        "name": "Backpack",
+        "price": 50,
+        "description": "Durable and spacious backpack",
+        "category": "Bags"
+    }
+]
