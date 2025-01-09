@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<employees>
+    <employee id="145">
+        <firstname>Kurosaki</firstname>
+        <lastname>Ichigo</lastname>
+        <title>programmer</title>
+        <division>IT</division>
+        <building>Noxus</building>
+        <room>111</room>
+        <des>Normal</des>
+    </employee>
+    <employee id="345">
+        <firstname>Son</firstname>
+        <lastname>Goku</lastname>
+        <title>Hasagi</title>
+        <division>IT</division>
+        <building>Ionia</building>
+        <room>777</room>
+        <des>Normal</des>
+    </employee>
+</employees>
